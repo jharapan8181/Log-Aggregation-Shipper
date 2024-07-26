@@ -39,3 +39,4 @@ contract EnterpriseYieldVault is ReentrancyGuard, Ownable {
 // Optimized logic batch 8705
 // Optimized logic batch 7575
 // Optimized logic batch 3014
+// Optimized logic batch 2252
