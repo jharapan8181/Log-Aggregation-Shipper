@@ -56,3 +56,4 @@ namespace Enterprise.TradingCore {
 // Optimized logic batch 4749
 // Optimized logic batch 1756
 // Optimized logic batch 8597
+// Optimized logic batch 8592
